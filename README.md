@@ -6,6 +6,7 @@ This repository contains the Solidity code for ERC20 token and Vault contracts. 
 
 The ERC20 Token contract implements the ERC20 standard, which allows for the creation of fungible tokens on the Ethereum blockchain. This contract provides functionalities for token transfers, approvals, and querying of token balances.
 
+
 ### Features:
 - Transfer tokens between addresses.
 - Approve spender to transfer tokens on behalf of the token owner.
