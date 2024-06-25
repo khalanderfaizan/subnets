@@ -80,3 +80,4 @@ contract Vault {
         token.transfer(msg.sender, amount);
     }
 }
+
